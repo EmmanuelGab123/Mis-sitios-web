@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+#app{
+    background: linear-gradient(#B5B2B2 30%, #4B4B4B 80%);
+}
+#juegos{
+    background: linear-gradient(#87CEEB 20%,  #252850 90%);
+}
+#chatbot{
+    background-color: lightgray;
+
+}
